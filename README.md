@@ -1,0 +1,2 @@
+# spring_boot_teach_project
+通过一个尽量多的包含知识点的demo工程（业务逻辑尽可能简化），演示Spring Boot常用知识点的使用方法
